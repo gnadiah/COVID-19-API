@@ -1,0 +1,6 @@
+flask
+flask_restful
+flask_cors
+requests
+html_table_parser_python3
+pyfiglet
