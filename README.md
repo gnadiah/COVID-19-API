@@ -38,6 +38,22 @@ response = requests.get("http://localhost:5000/api/get-world-data/").json()
 print(response)
 ```
 
+###### Ajax jQuery Library Usage (JavaScript)
+
+```
+$.ajax({
+    type: "GET",
+    url: "http://localhost:5000/api/get-world-data/",
+    dataType: "json",
+    crossDomain: true,
+    success: function(data) {
+        # Variable data is a response data, already convert to JSON type
+        # Print out the response data
+        console.log(data);
+    }
+});
+```
+
 ##### Get Vietnam COVID-19 Data
 
 ###### cURL Usage
@@ -56,6 +72,22 @@ response = requests.get("http://localhost:5000/api/get-vn-data/").json()
 
 # Print out the response data
 print(response)
+```
+
+###### Ajax jQuery Library Usage (JavaScript)
+
+```
+$.ajax({
+    type: "GET",
+    url: "http://localhost:5000/api/get-vn-data/",
+    dataType: "json",
+    crossDomain: true,
+    success: function(data) {
+        # Variable data is a response data, already convert to JSON type
+        # Print out the response data
+        console.log(data);
+    }
+});
 ```
 
 ---
