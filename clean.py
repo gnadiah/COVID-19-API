@@ -1,7 +1,7 @@
 import os, platform
 from pyfiglet import figlet_format
 
-print("Enter the password if the machine asks !!!")
+print("Enter the password if the machine asks !!")
 
 os_type = platform.system().lower()
 
