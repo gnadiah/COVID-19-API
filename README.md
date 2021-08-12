@@ -54,6 +54,26 @@ $.ajax({
 });
 ```
 
+###### PHP Usage
+
+```
+// Using file_get_contents function
+$result = file_get_contents("http://localhost:5000/api/get-world-data/");
+
+// Using PHP cURL
+$ch = curl_init();
+curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
+curl_setopt($ch, CURLOPT_URL, "http://localhost:5000/api/get-world-data/");
+$result = curl_exec($ch);
+curl_close($ch);
+
+// Convert to Associative array type
+$json = json_decode($result, true);
+
+// Convert to Object type
+$json = json_decode($result); // Convert to Object type
+```
+
 ##### Get Vietnam COVID-19 Data
 
 ###### cURL Usage
@@ -88,6 +108,26 @@ $.ajax({
         console.log(data);
     }
 });
+```
+
+###### PHP Usage
+
+```
+// Using file_get_contents function
+$result = file_get_contents("http://localhost:5000/api/get-vn-data/");
+
+// Using PHP cURL
+$ch = curl_init();
+curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
+curl_setopt($ch, CURLOPT_URL, "http://localhost:5000/api/get-vn-data/");
+$result = curl_exec($ch);
+curl_close($ch);
+
+// Convert to Associative array type
+$json = json_decode($result, true);
+
+// Convert to Object type
+$json = json_decode($result); // Convert to Object type
 ```
 
 ---
