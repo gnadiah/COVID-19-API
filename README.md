@@ -1,9 +1,9 @@
 # COVID-19 LIVE API
-#### BY - [Nguyen Hai Dang (ndangmods)](https://github.com/ndangmods/)
+#### API CREATOR - [Nguyen Hai Dang (ndangmods)](https://github.com/ndangmods/)
 
-##### WITH HELP FOR VIETNAM COVID-19 LIVE DATA - [Viet Trung](https://www.facebook.com/trungsociupro/)
+###### WITH HELP FOR VIETNAM COVID-19 LIVE DATA - [Viet Trung](https://www.facebook.com/trungsociupro/)
 
-##### WITH HELP FOR WORLD COVID-19 LIVE DATA - [Worldometers](https://www.worldometers.info/)
+###### WITH HELP FOR WORLD COVID-19 LIVE DATA - [Worldometers](https://www.worldometers.info/)
 
 ---
 
