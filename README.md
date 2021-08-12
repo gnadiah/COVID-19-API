@@ -21,11 +21,13 @@
 ##### Get World COVID-19 Data 
 
 ###### cURL Usage
+
 ```
 curl http://localhost:5000/api/get-world-data/
 ```
 
 ###### Python requests Library Usage
+
 ```
 import requests
 
@@ -39,11 +41,13 @@ print(response)
 ##### Get Vietnam COVID-19 Data
 
 ###### cURL Usage
+
 ```
 curl http://localhost:5000/api/get-vn-data/
 ```
 
 ###### Python requests Library Usage
+
 ```
 import requests
 
@@ -53,6 +57,27 @@ response = requests.get("http://localhost:5000/api/get-vn-data/").json()
 # Print out the response data
 print(response)
 ```
+
+---
+
+# INSTALLING DEPENDENCIES
+
+##### Needs Python >= 3.9
+
+##### Open the terminal in the directory have a requirements.txt file
+
+###### Run PIP command to install all dependencies
+
+```
+pip3 install -r requirements.txt
+```
+
+---
+
+# INSTRUCTIONS
+
+1. Run the command in 'INSTALLING DEPENDENCIES' part
+2. Run the app.py file with the command `python3 app.py`
 
 ---
 
