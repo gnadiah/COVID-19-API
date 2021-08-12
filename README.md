@@ -71,7 +71,7 @@ curl_close($ch);
 $json = json_decode($result, true);
 
 // Convert to Object type
-$json = json_decode($result); // Convert to Object type
+$json = json_decode($result);
 ```
 
 ##### Get Vietnam COVID-19 Data
@@ -127,7 +127,7 @@ curl_close($ch);
 $json = json_decode($result, true);
 
 // Convert to Object type
-$json = json_decode($result); // Convert to Object type
+$json = json_decode($result);
 ```
 
 ---
