@@ -10,8 +10,9 @@
 
 # REQUIREMENTS
 
-#### The Windows, Linux or MacOS machine have Python >= 3.9
-#### The machine have a PIP library
+#### 1. The Windows, Linux or MacOS machine have Python >= 3.9
+
+#### 2. The machine have a PIP library
 
 ---
 
