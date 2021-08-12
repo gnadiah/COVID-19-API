@@ -13,7 +13,7 @@ api = Api(app)
 
 WORLD_START = 0
 VN_START = 0
-WAITING_TIME = 60
+WAITING_TIME = 7200
 
 class AppURLopener(urllib.request.FancyURLopener):
     version = "Mozilla/5.0"
