@@ -10,14 +10,14 @@
 
 # REQUIREMENTS
 
-##### The Windows, Linux or MacOS machine have Python >= 3.9
-##### The machine have a PIP library
+#### The Windows, Linux or MacOS machine have Python >= 3.9
+#### The machine have a PIP library
 
 ---
 
 # USAGE
 
-##### Get World COVID-19 Data 
+#### Get World COVID-19 Data 
 
 ###### cURL Usage
 ```
@@ -35,7 +35,7 @@ response = requests.get("http://localhost:5000/api/get-world-data/").json()
 print(response)
 ```
 
-##### Get Vietnam COVID-19 Data
+#### Get Vietnam COVID-19 Data
 
 ###### cURL Usage
 ```
