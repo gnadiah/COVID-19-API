@@ -76,7 +76,7 @@ pip3 install -r requirements.txt
 
 # INSTRUCTIONS
 
-1. Run the command in 'INSTALLING DEPENDENCIES' part
+1. Run the command in "INSTALLING DEPENDENCIES" part
 2. Run the app.py file with the command `python3 app.py`
 
 ---
