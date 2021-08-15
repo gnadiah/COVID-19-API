@@ -141,7 +141,10 @@ $json = json_decode($result);
 ###### Run PIP command to install all dependencies
 
 ```
-pip3 install -r requirements.txt
+MacOS, Linux or Unix:
+    pip3 install -r requirements.txt
+Windows:
+    pip install -r requirements.txt
 ```
 
 ---
@@ -149,7 +152,13 @@ pip3 install -r requirements.txt
 # INSTRUCTIONS
 
 1. Run the command in "INSTALLING DEPENDENCIES" part
-2. Run the app.py file with the command `python3 app.py`
+2. Run the app.py file with the command below
+```
+MacOS, Linux or Unix:
+    python3 app.py
+Windows:
+    python app.py
+```
 
 ---
 
