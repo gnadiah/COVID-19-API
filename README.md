@@ -168,7 +168,7 @@ python3 src/app.py
 ###### Windows
 
 ```
-python src/app.py
+python src\app.py
 ```
 
 ---
