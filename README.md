@@ -157,18 +157,18 @@ pip install -r requirements.txt
 # INSTRUCTIONS
 
 1. Run the command in "INSTALLING DEPENDENCIES" part
-2. Run the app.py file with the command below
+2. Run the app.py in src file with the command below
 
 ###### MacOS, Linux or Unix
 
 ```
-python3 app.py
+python3 src/app.py
 ```
 
 ###### Windows
 
 ```
-python app.py
+python src/app.py
 ```
 
 ---
