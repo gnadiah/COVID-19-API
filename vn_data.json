@@ -1,1 +1,381 @@
-[{"being_treated": 163038, "province": "Vietnam", "total_cases": 265464, "total_deaths": 5.437, "total_recovered": 96985}, {"province": "h\u1ed3-ch\u00ed-minh", "total_cases": 144519, "total_deaths": 4315, "total_recovered": 692}, {"province": "b\u00ecnh-d\u01b0\u01a1ng", "total_cases": 41610, "total_deaths": 341, "total_recovered": 45}, {"province": "long-an", "total_cases": 13885, "total_deaths": 153, "total_recovered": 11}, {"province": "long-an", "total_cases": 13171, "total_deaths": 93, "total_recovered": 32}, {"province": "b\u1eafc-giang", "total_cases": 5823, "total_deaths": 12, "total_recovered": 3592}, {"province": "kh\u00e1nh-h\u00f2a", "total_cases": 4313, "total_deaths": 29, "total_recovered": 128}, {"province": "\u0111\u1ed3ng-th\u00e1p", "total_cases": 4229, "total_deaths": 98, "total_recovered": 1}, {"province": "ti\u1ec1n-giang", "total_cases": 4136, "total_deaths": 134, "total_recovered": 5}, {"province": "t\u00e2y-ninh", "total_cases": 3509, "total_deaths": 7, "total_recovered": 51}, {"province": "h\u00e0-n\u1ed9i", "total_cases": 2702, "total_deaths": 31, "total_recovered": 518}, {"province": "b\u00e0-r\u1ecba-v\u0169ng-t\u00e0u", "total_cases": 2686, "total_deaths": 21, "total_recovered": 127}, {"province": "c\u1ea7n-th\u01a1", "total_cases": 2516, "total_deaths": 45, "total_recovered": 35}, {"province": "\u0111\u00e0-n\u1eb5ng", "total_cases": 2457, "total_deaths": 48, "total_recovered": 617}, {"province": "ph\u00fa-y\u00ean", "total_cases": 2068, "total_deaths": 0, "total_recovered": 28}, {"province": "b\u1eafc-ninh", "total_cases": 1760, "total_deaths": 15, "total_recovered": 1042}, {"province": "v\u0129nh-long", "total_cases": 1574, "total_deaths": 23, "total_recovered": 13}, {"province": "b\u00ecnh-thu\u1eadn", "total_cases": 1427, "total_deaths": 10, "total_recovered": 11}, {"province": "b\u1ebfn-tre", "total_cases": 1282, "total_deaths": 27, "total_recovered": 18}, {"province": "h\u1ea3i-d\u01b0\u01a1ng", "total_cases": 923, "total_deaths": 0, "total_recovered": 804}, {"province": "tr\u00e0-vinh", "total_cases": 820, "total_deaths": 5, "total_recovered": 8}, {"province": "an-giang", "total_cases": 787, "total_deaths": 1, "total_recovered": 9}, {"province": "ninh-thu\u1eadn", "total_cases": 587, "total_deaths": 3, "total_recovered": 12}, {"province": "ki\u00ean-giang", "total_cases": 563, "total_deaths": 4, "total_recovered": 27}, {"province": "ngh\u1ec7-an", "total_cases": 473, "total_deaths": 1, "total_recovered": 5}, {"province": "s\u00f3c-tr\u0103ng", "total_cases": 470, "total_deaths": 5, "total_recovered": 0}, {"province": "qu\u1ea3ng-ng\u00e3i", "total_cases": 466, "total_deaths": 0, "total_recovered": 8}, {"province": "b\u00ecnh-\u0111\u1ecbnh", "total_cases": 459, "total_deaths": 3, "total_recovered": 1}, {"province": "\u0111\u1eafk-l\u1eafk", "total_cases": 438, "total_deaths": 1, "total_recovered": 4}, {"province": "gia-lai", "total_cases": 367, "total_deaths": 0, "total_recovered": 27}, {"province": "qu\u1ea3ng-nam", "total_cases": 363, "total_deaths": 4, "total_recovered": 123}, {"province": "h\u1eadu-giang", "total_cases": 343, "total_deaths": 2, "total_recovered": 0}, {"province": "h\u01b0ng-y\u00ean", "total_cases": 325, "total_deaths": 0, "total_recovered": 68}, {"province": "b\u00ecnh-ph\u01b0\u1edbc", "total_cases": 305, "total_deaths": 0, "total_recovered": 0}, {"province": "h\u00e0-t\u0129nh", "total_cases": 289, "total_deaths": 2, "total_recovered": 20}, {"province": "th\u1eeba-thi\u00ean-hu\u1ebf", "total_cases": 269, "total_deaths": 0, "total_recovered": 6}, {"province": "v\u0129nh-ph\u00fac", "total_cases": 254, "total_deaths": 1, "total_recovered": 50}, {"province": "\u0111\u1eafk-n\u00f4ng", "total_cases": 181, "total_deaths": 0, "total_recovered": 0}, {"province": "l\u00e2m-\u0111\u1ed3ng", "total_cases": 178, "total_deaths": 0, "total_recovered": 0}, {"province": "thanh-h\u00f3a", "total_cases": 174, "total_deaths": 0, "total_recovered": 26}, {"province": "l\u1ea1ng-s\u01a1n", "total_cases": 146, "total_deaths": 1, "total_recovered": 20}, {"province": "b\u1ea1c-li\u00eau", "total_cases": 130, "total_deaths": 0, "total_recovered": 53}, {"province": "th\u00e1i-b\u00ecnh", "total_cases": 113, "total_deaths": 0, "total_recovered": 56}, {"province": "qu\u1ea3ng-ninh", "total_cases": 104, "total_deaths": 0, "total_recovered": 87}, {"province": "ninh-b\u00ecnh", "total_cases": 102, "total_deaths": 0, "total_recovered": 37}, {"province": "s\u01a1n-la", "total_cases": 85, "total_deaths": 0, "total_recovered": 0}, {"province": "qu\u1ea3ng-b\u00ecnh", "total_cases": 79, "total_deaths": 0, "total_recovered": 0}, {"province": "h\u00e0-nam", "total_cases": 74, "total_deaths": 0, "total_recovered": 50}, {"province": "l\u00e0o-cai", "total_cases": 61, "total_deaths": 0, "total_recovered": 2}, {"province": "\u0111i\u1ec7n-bi\u00ean", "total_cases": 61, "total_deaths": 0, "total_recovered": 52}, {"province": "c\u00e0-mau", "total_cases": 59, "total_deaths": 1, "total_recovered": 8}, {"province": "qu\u1ea3ng-tr\u1ecb", "total_cases": 49, "total_deaths": 1, "total_recovered": 12}, {"province": "nam-\u0111\u1ecbnh", "total_cases": 46, "total_deaths": 0, "total_recovered": 18}, {"province": "h\u00f2a-b\u00ecnh", "total_cases": 45, "total_deaths": 0, "total_recovered": 33}, {"province": "h\u1ea3i-ph\u00f2ng", "total_cases": 38, "total_deaths": 0, "total_recovered": 12}, {"province": "h\u00e0-giang", "total_cases": 24, "total_deaths": 0, "total_recovered": 3}, {"province": "kon-tum", "total_cases": 21, "total_deaths": 0, "total_recovered": 0}, {"province": "th\u00e1i-nguy\u00ean", "total_cases": 19, "total_deaths": 0, "total_recovered": 8}, {"province": "ph\u00fa-th\u1ecd", "total_cases": 18, "total_deaths": 0, "total_recovered": 5}, {"province": "y\u00ean-b\u00e1i", "total_cases": 7, "total_deaths": 0, "total_recovered": 5}, {"province": "y\u00ean-b\u00e1i", "total_cases": 6, "total_deaths": 0, "total_recovered": 0}, {"province": "tuy\u00ean-quang", "total_cases": 2, "total_deaths": 0, "total_recovered": 1}, {"province": "lai-ch\u00e2u", "total_cases": 2, "total_deaths": 0, "total_recovered": 1}]
+[
+    {
+      "being_treated": 163038,
+      "province": "Vietnam",
+      "total_cases": 265464,
+      "total_deaths": 5.437,
+      "total_recovered": 96985
+    },
+    {
+      "province": "hồ-chí-minh",
+      "total_cases": 144519,
+      "total_deaths": 4315,
+      "total_recovered": 692
+    },
+    {
+      "province": "bình-dương",
+      "total_cases": 41610,
+      "total_deaths": 341,
+      "total_recovered": 45
+    },
+    {
+      "province": "long-an",
+      "total_cases": 13885,
+      "total_deaths": 153,
+      "total_recovered": 11
+    },
+    {
+      "province": "long-an",
+      "total_cases": 13171,
+      "total_deaths": 93,
+      "total_recovered": 32
+    },
+    {
+      "province": "bắc-giang",
+      "total_cases": 5823,
+      "total_deaths": 12,
+      "total_recovered": 3592
+    },
+    {
+      "province": "khánh-hòa",
+      "total_cases": 4313,
+      "total_deaths": 29,
+      "total_recovered": 128
+    },
+    {
+      "province": "đồng-tháp",
+      "total_cases": 4229,
+      "total_deaths": 98,
+      "total_recovered": 1
+    },
+    {
+      "province": "tiền-giang",
+      "total_cases": 4136,
+      "total_deaths": 134,
+      "total_recovered": 5
+    },
+    {
+      "province": "tây-ninh",
+      "total_cases": 3509,
+      "total_deaths": 7,
+      "total_recovered": 51
+    },
+    {
+      "province": "hà-nội",
+      "total_cases": 2702,
+      "total_deaths": 31,
+      "total_recovered": 518
+    },
+    {
+      "province": "bà-rịa-vũng-tàu",
+      "total_cases": 2686,
+      "total_deaths": 21,
+      "total_recovered": 127
+    },
+    {
+      "province": "cần-thơ",
+      "total_cases": 2516,
+      "total_deaths": 45,
+      "total_recovered": 35
+    },
+    {
+      "province": "đà-nẵng",
+      "total_cases": 2457,
+      "total_deaths": 48,
+      "total_recovered": 617
+    },
+    {
+      "province": "phú-yên",
+      "total_cases": 2068,
+      "total_deaths": 0,
+      "total_recovered": 28
+    },
+    {
+      "province": "bắc-ninh",
+      "total_cases": 1760,
+      "total_deaths": 15,
+      "total_recovered": 1042
+    },
+    {
+      "province": "vĩnh-long",
+      "total_cases": 1574,
+      "total_deaths": 23,
+      "total_recovered": 13
+    },
+    {
+      "province": "bình-thuận",
+      "total_cases": 1427,
+      "total_deaths": 10,
+      "total_recovered": 11
+    },
+    {
+      "province": "bến-tre",
+      "total_cases": 1282,
+      "total_deaths": 27,
+      "total_recovered": 18
+    },
+    {
+      "province": "hải-dương",
+      "total_cases": 923,
+      "total_deaths": 0,
+      "total_recovered": 804
+    },
+    {
+      "province": "trà-vinh",
+      "total_cases": 820,
+      "total_deaths": 5,
+      "total_recovered": 8
+    },
+    {
+      "province": "an-giang",
+      "total_cases": 787,
+      "total_deaths": 1,
+      "total_recovered": 9
+    },
+    {
+      "province": "ninh-thuận",
+      "total_cases": 587,
+      "total_deaths": 3,
+      "total_recovered": 12
+    },
+    {
+      "province": "kiên-giang",
+      "total_cases": 563,
+      "total_deaths": 4,
+      "total_recovered": 27
+    },
+    {
+      "province": "nghệ-an",
+      "total_cases": 473,
+      "total_deaths": 1,
+      "total_recovered": 5
+    },
+    {
+      "province": "sóc-trăng",
+      "total_cases": 470,
+      "total_deaths": 5,
+      "total_recovered": 0
+    },
+    {
+      "province": "quảng-ngãi",
+      "total_cases": 466,
+      "total_deaths": 0,
+      "total_recovered": 8
+    },
+    {
+      "province": "bình-định",
+      "total_cases": 459,
+      "total_deaths": 3,
+      "total_recovered": 1
+    },
+    {
+      "province": "đắk-lắk",
+      "total_cases": 438,
+      "total_deaths": 1,
+      "total_recovered": 4
+    },
+    {
+      "province": "gia-lai",
+      "total_cases": 367,
+      "total_deaths": 0,
+      "total_recovered": 27
+    },
+    {
+      "province": "quảng-nam",
+      "total_cases": 363,
+      "total_deaths": 4,
+      "total_recovered": 123
+    },
+    {
+      "province": "hậu-giang",
+      "total_cases": 343,
+      "total_deaths": 2,
+      "total_recovered": 0
+    },
+    {
+      "province": "hưng-yên",
+      "total_cases": 325,
+      "total_deaths": 0,
+      "total_recovered": 68
+    },
+    {
+      "province": "bình-phước",
+      "total_cases": 305,
+      "total_deaths": 0,
+      "total_recovered": 0
+    },
+    {
+      "province": "hà-tĩnh",
+      "total_cases": 289,
+      "total_deaths": 2,
+      "total_recovered": 20
+    },
+    {
+      "province": "thừa-thiên-huế",
+      "total_cases": 269,
+      "total_deaths": 0,
+      "total_recovered": 6
+    },
+    {
+      "province": "vĩnh-phúc",
+      "total_cases": 254,
+      "total_deaths": 1,
+      "total_recovered": 50
+    },
+    {
+      "province": "đắk-nông",
+      "total_cases": 181,
+      "total_deaths": 0,
+      "total_recovered": 0
+    },
+    {
+      "province": "lâm-đồng",
+      "total_cases": 178,
+      "total_deaths": 0,
+      "total_recovered": 0
+    },
+    {
+      "province": "thanh-hóa",
+      "total_cases": 174,
+      "total_deaths": 0,
+      "total_recovered": 26
+    },
+    {
+      "province": "lạng-sơn",
+      "total_cases": 146,
+      "total_deaths": 1,
+      "total_recovered": 20
+    },
+    {
+      "province": "bạc-liêu",
+      "total_cases": 130,
+      "total_deaths": 0,
+      "total_recovered": 53
+    },
+    {
+      "province": "thái-bình",
+      "total_cases": 113,
+      "total_deaths": 0,
+      "total_recovered": 56
+    },
+    {
+      "province": "quảng-ninh",
+      "total_cases": 104,
+      "total_deaths": 0,
+      "total_recovered": 87
+    },
+    {
+      "province": "ninh-bình",
+      "total_cases": 102,
+      "total_deaths": 0,
+      "total_recovered": 37
+    },
+    {
+      "province": "sơn-la",
+      "total_cases": 85,
+      "total_deaths": 0,
+      "total_recovered": 0
+    },
+    {
+      "province": "quảng-bình",
+      "total_cases": 79,
+      "total_deaths": 0,
+      "total_recovered": 0
+    },
+    {
+      "province": "hà-nam",
+      "total_cases": 74,
+      "total_deaths": 0,
+      "total_recovered": 50
+    },
+    {
+      "province": "lào-cai",
+      "total_cases": 61,
+      "total_deaths": 0,
+      "total_recovered": 2
+    },
+    {
+      "province": "điện-biên",
+      "total_cases": 61,
+      "total_deaths": 0,
+      "total_recovered": 52
+    },
+    {
+      "province": "cà-mau",
+      "total_cases": 59,
+      "total_deaths": 1,
+      "total_recovered": 8
+    },
+    {
+      "province": "quảng-trị",
+      "total_cases": 49,
+      "total_deaths": 1,
+      "total_recovered": 12
+    },
+    {
+      "province": "nam-định",
+      "total_cases": 46,
+      "total_deaths": 0,
+      "total_recovered": 18
+    },
+    {
+      "province": "hòa-bình",
+      "total_cases": 45,
+      "total_deaths": 0,
+      "total_recovered": 33
+    },
+    {
+      "province": "hải-phòng",
+      "total_cases": 38,
+      "total_deaths": 0,
+      "total_recovered": 12
+    },
+    {
+      "province": "hà-giang",
+      "total_cases": 24,
+      "total_deaths": 0,
+      "total_recovered": 3
+    },
+    {
+      "province": "kon-tum",
+      "total_cases": 21,
+      "total_deaths": 0,
+      "total_recovered": 0
+    },
+    {
+      "province": "thái-nguyên",
+      "total_cases": 19,
+      "total_deaths": 0,
+      "total_recovered": 8
+    },
+    {
+      "province": "phú-thọ",
+      "total_cases": 18,
+      "total_deaths": 0,
+      "total_recovered": 5
+    },
+    {
+      "province": "yên-bái",
+      "total_cases": 7,
+      "total_deaths": 0,
+      "total_recovered": 5
+    },
+    {
+      "province": "yên-bái",
+      "total_cases": 6,
+      "total_deaths": 0,
+      "total_recovered": 0
+    },
+    {
+      "province": "tuyên-quang",
+      "total_cases": 2,
+      "total_deaths": 0,
+      "total_recovered": 1
+    },
+    {
+      "province": "lai-châu",
+      "total_cases": 2,
+      "total_deaths": 0,
+      "total_recovered": 1
+    }
+]
